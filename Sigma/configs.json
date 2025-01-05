@@ -6,7 +6,5 @@
   "delayEachAccount": [1, 81],
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 10,
-  "doTasks": true,
-  "playGames": true,
-  "referralCode": ""
+  "doTasks": true
 }
